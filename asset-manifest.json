@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pokecounter/static/css/main.772bab84.css",
+    "main.js": "/pokecounter/static/js/main.d50279d2.js",
+    "static/js/837.93cac4d8.chunk.js": "/pokecounter/static/js/837.93cac4d8.chunk.js",
+    "static/js/488.9c5a0e94.chunk.js": "/pokecounter/static/js/488.9c5a0e94.chunk.js",
+    "index.html": "/pokecounter/index.html",
+    "main.772bab84.css.map": "/pokecounter/static/css/main.772bab84.css.map",
+    "main.d50279d2.js.map": "/pokecounter/static/js/main.d50279d2.js.map",
+    "837.93cac4d8.chunk.js.map": "/pokecounter/static/js/837.93cac4d8.chunk.js.map",
+    "488.9c5a0e94.chunk.js.map": "/pokecounter/static/js/488.9c5a0e94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.772bab84.css",
+    "static/js/main.d50279d2.js"
+  ]
+}
